@@ -3,11 +3,11 @@
 Created to help members of the community Priscilla plan their projects and tasks, as well as organize group work.
 
 <p align="center">
-  <img width="100%" src="docs/img/Kanban.png" alt="kanban"/>
+  <img width="100%" src="docs/img/kanban.png" alt="kanban"/>
 </p>
 
 <p align="center">
-  <img width="100%" src="docs/img/diagram.png" alt="diagram"/>
+  <img width="100%" src="docs/img/diagram.svg" alt="diagram"/>
 </p>
 
 ## Deploy
